@@ -1,0 +1,4 @@
+C:\Users\utilizador\source\repos\TitansTrainer\TitansTrainer\obj\Debug\TitansTrainer.csprojAssemblyReference.cache
+C:\Users\utilizador\source\repos\TitansTrainer\TitansTrainer\obj\Debug\TitansTrainer.Properties.Resources.resources
+C:\Users\utilizador\source\repos\TitansTrainer\TitansTrainer\obj\Debug\TitansTrainer.csproj.GenerateResource.cache
+C:\Users\utilizador\source\repos\TitansTrainer\TitansTrainer\obj\Debug\TitansTrainer.csproj.CoreCompileInputs.cache
