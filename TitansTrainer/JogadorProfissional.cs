@@ -9,7 +9,7 @@ namespace TitansTrainer
     class JogadorProfissional : JogadorSubscricao
     {
         private int m_Moedas;
-       
+       private int m_ApostaAtual;
 
        public int Moedas
         {
@@ -23,6 +23,17 @@ namespace TitansTrainer
             }
         }
 
+        public int ApostaAtual
+        {
+            get
+            {
+                return m_ApostaAtual;
+            }
+            set
+            {
+                m_ApostaAtual = value;
+            }
+        }
       
 
      

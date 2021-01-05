@@ -8,7 +8,7 @@ namespace TitansTrainer
 {
     public abstract class Jogador
     {
-        private int m_ApostaAtual;
+        
         private int m_CombatPower;
         private int m_GamePoints;
         private string m_NickName;
@@ -18,17 +18,7 @@ namespace TitansTrainer
         private bool m_TemHabilidadeSecreta;
 
 
-        public int ApostaAtual
-        {
-            get
-            {
-                return m_ApostaAtual;
-            }
-            set
-            {
-                m_ApostaAtual = value;
-            }
-        }
+        
 
         public int CombatPower
         {
